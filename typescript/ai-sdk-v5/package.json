@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@openrouter-examples/shared": "workspace:*",
-    "@openrouter/ai-sdk-provider": "1.5.0",
+    "@openrouter/ai-sdk-provider": "1.5.3",
     "ai": "5.0.108"
   },
   "devDependencies": {
